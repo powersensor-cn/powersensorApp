@@ -11,4 +11,4 @@ Powersensor百科
 * 颜色识别
 
 # 有用的链接
-[官网][!http://www.jingliankeji.cn/?page_id=771]
+![官网](http://www.jingliankeji.cn/?page_id=771)
